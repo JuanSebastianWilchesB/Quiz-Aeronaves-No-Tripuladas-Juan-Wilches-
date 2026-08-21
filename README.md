@@ -4,7 +4,7 @@ Juan Sebastian Wilches Benavides
 
 # ARPAS
 (Remotely piloted  aircraft system) es el sistema de aeronave pilotada a distancia  
-#RC
+# RC
 (remote control) es el control remoto utilizado por el piloto para manejar un dron
 # VLOS
 (visual line of sight) el piloto mantiene contacto visual directo con el dron durante el vuelo
